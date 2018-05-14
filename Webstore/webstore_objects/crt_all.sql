@@ -1,0 +1,11 @@
+@crt_employee.sql  
+@crt_customer.sql     
+@crt_credit_card.sql  
+@crt_distributor.sql  
+@crt_order.sql
+@crt_item.sql   
+@crt_contains.sql     
+@crt_format.sql    
+@crt_games.sql  
+@crt_movies.sql  
+@crt_music.sql

@@ -1,0 +1,4 @@
+CREATE OR REPLACE VIEW allMovies AS
+(SELECT DISTINCT * 
+From JRDM_item NATURAL JOIN JRDM_movies NATURAL JOIN jrdm_format )
+/

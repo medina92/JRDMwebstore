@@ -1,0 +1,4 @@
+ select date_ordered, sum (LIST_PRICE * QUANTITY) from monthlysales
+ where date_ordered = '20-NOV-15'
+ group by date_ordered order by date_ordered 
+/

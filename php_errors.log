@@ -1,0 +1,10 @@
+[04-Nov-2015 01:09:26] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[04-Nov-2015 01:09:55] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[04-Nov-2015 01:09:55] PHP Warning:  oci_execute(): ORA-00942: table or view does not exist in /home/cs342/JRami_DMedi/front.php on line 14
+[04-Nov-2015 01:09:55] PHP Warning:  oci_fetch_array(): ORA-24374: define not done before fetch or execute and fetch in /home/cs342/JRami_DMedi/front.php on line 17
+[04-Nov-2015 01:10:43] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[04-Nov-2015 01:10:43] PHP Warning:  oci_parse(): ORA-01756: quoted string not properly terminated in /home/cs342/JRami_DMedi/front.php on line 13
+[04-Nov-2015 01:10:43] PHP Warning:  oci_fetch_array() expects parameter 1 to be resource, boolean given in /home/cs342/JRami_DMedi/front.php on line 16
+[04-Nov-2015 01:11:14] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[04-Nov-2015 01:11:14] PHP Warning:  oci_fetch_array(): ORA-24374: define not done before fetch or execute and fetch in /home/cs342/JRami_DMedi/front.php on line 17
+[04-Nov-2015 01:12:05] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0

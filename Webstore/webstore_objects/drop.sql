@@ -1,0 +1,11 @@
+drop table JRDM_music;
+drop table JRDM_movies;
+drop table JRDM_games;
+drop table JRDM_format;
+drop table JRDM_contains;
+drop table JRDM_order;
+drop table JRDM_item;
+drop table JRDM_creditcard;
+drop table JRDM_customer;
+drop table JRDM_employee;
+drop table JRDM_distributor;

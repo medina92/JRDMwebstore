@@ -1,0 +1,262 @@
+TABLE NAME|JRDM_employee|11
+1| George| Carpenter| 1992-03-08 12:00:00| 798 Stone Corner Pass| Columbus| Ohio| 43240| 17401774729| 2010-05-23 12:00:00| 2014-08-28 12:00:00 
+2| Kathy| Bishop| 1991-10-20 12:00:00| 2 Brown Place| Dayton| Ohio| 45470| 19373831518| 2010-04-04 12:00:00| 2010-09-27 12:00:00 
+3| Ernest| Carter| 1986-07-24 12:00:00| 3 Karstens Hill| Raleigh| North Carolina| 27605| 19193079809| 2009-10-01 12:00:00| NULL
+4| Beverly| Brown| 1990-05-28 12:00:00| 53 Melvin Terrace| Orlando| Florida| 32808| 13218179978| 2010-05-04 12:00:00| NULL
+5| Alan| Greene| 1991-07-11 12:00:00| 23 Erie Point| Salt Lake City| Utah| 84145| 18015519643| 2008-12-14 12:00:00| NULL
+6| Doris| Nichols| 1989-10-30 12:00:00| 99563 Scoville Drive| Sparks| Nevada| 89436| 17755403055| 2009-10-11 12:00:00| 2013-02-11 12:00:00 
+7| Janice| Turner| 1985-11-20 12:00:00| 80090 5th Circle| Raleigh| North Carolina| 27626| 19194556692| 2010-05-09 12:00:00| 2014-05-07 12:00:00 
+8| Martin| Cruz| 1988-01-15 12:00:00| 02557 Loftsgordon Lane| Akron| Ohio| 44310| 13302139124| 2010-05-26 12:00:00| NULL
+9| Virginia| Price| 1992-06-17 12:00:00| 8741 Caliangt Park| Saint Louis| Missouri| 63116| 13148199469| 2008-02-05 12:00:00| NULL
+10| Anne| Kim| 1988-09-25 12:00:00| 9726 Onsgard Center| Norfolk| Virginia| 23520| 17576795201| 2009-05-22 12:00:00| 2012-06-25 12:00:00 
+
+TABLE NAME|JRDM_customer|12
+1| F| Christine| Mccoy| 1988-06-04 12:00:00| 1840 Wayridge Court| Santa Barbara| California| 93111| 18058843047| cmccoy0@jigsy.com| vtqumhb7
+2| F| Mary| Lynch| 1986-03-28 12:00:00| 4377 Eagle Crest Junction| Cincinnati| Ohio| 45254| 15134916055| mlynch1@illinois.edu| RKRUmp0
+3| F| Nancy| Lopez| 1989-03-11 12:00:00| 8 Corry Court| Portland| Oregon| 97201| 19719276466| nlopez2@qq.com| Hu1VcvO
+4| F| Julia| Woods| 1992-12-24 12:00:00| 9421 Haas Center| San Jose| California| 95123| 14085288993| jwoods3@rakuten.co.jp| Dhe4BgLc
+5| M| Bruce| Young| 1989-08-11 12:00:00| 30646 Reindahl Street| New Orleans| Louisiana| 70124| 19853842952| byoung4@behance.net| ugLCjkmmOK
+6| M| Harold| Long| 1991-03-10 12:00:00| 0 Ridge Oak Pass| Houston| Texas| 77299| 17133958253| hlong5@loc.gov| MiuUwQK
+7| M| Shawn| Harris| 1991-07-03 12:00:00| 66 North Lane| New York City| New York| 10184| 12123826964| sharris6@gizmodo.com| l2J1mEx80tAf
+8| M| Andrew| Payne| 1988-05-07 12:00:00| 2792 Morning Trail| Boise| Idaho| 83711| 12086751653| apayne7@bizjournals.com| 6BFEPsx5Ma
+9| F| Amy| Reid| 1986-12-10 12:00:00| 1 Anderson Alley| Kansas City| Kansas| 66160| 19132539400| areid8@umn.edu| APZJUQnLtZ
+10| M| Clarence| Griffin| 1986-12-23 12:00:00| 018 Butterfield Pass| Charlotte| North Carolina| 28263| 17045817640| cgriffin9@nba.com| Pd6ezChhEVG
+
+TABLE NAME|JRDM_creditcard|7
+4844542949956840| 1| Christine| Mccoy| 2018-12-01 12:00:00| 904| visa-electron
+3550506265672170| 2| Mary| Lynch| 2021-01-01 12:00:00| 234| jcb
+3578745162625680| 3| Nancy| Lopez| 2018-04-08 12:00:00| 372| jcb
+490524148153588000| 4| Julia| Woods| 2019-08-19 12:00:00| 681| switch
+3533257510000310| 5| Bruce| Young| 2021-07-06 12:00:00| 857| jcb
+5602251631942650| 6| Harold| Long| 2019-02-26 12:00:00| 507| bankcard
+4017954072617| 7| Shawn| Harris| 2018-09-06 12:00:00| 707| visa
+5602252585509700000| 8| Andrew| Payne| 2021-02-07 12:00:00| 865| china-unionpay
+3579813360873430| 9| Amy| Reid| 2018-08-05 12:00:00| 993| jcb
+6706271357771240000| 10| Clarence| Griffin| 2019-12-30 12:00:00| 428| laser
+
+TABLE NAME|JRDM_distributor|7
+1| Voonyx| 475 Muir Crossing| Washington| District of Columbia| 20099| 12026904435
+2| Riffwire| 36 Hermina Avenue| Springfield| Massachusetts| 11105| 14138425648
+3| Ooba| 5 Oakridge Crossing| Garden Grove| California| 92645| 17143094845
+4| Jetwire| 50224 Cambridge Pass| Austin| Texas| 78783| 15129310539
+5| Voonte| 97012 Cascade Avenue| Houston| Texas| 77090| 12814807381
+6| Riffwire| 63742 Dennis Hill| Sacramento| California| 95813| 19162096888
+7| Mita| 9567 Grayhawk Plaza| Gadsden| Alabama| 35905| 12567368862
+8| Vimbo| 229 Orin Trail| Denver| Colorado| 80204| 13036506838
+9| Roombo| 6 Logan Crossing| New Orleans| Louisiana| 70124| 19857911394
+10| Aibox| 7 Pierstorff Plaza| Minneapolis| Minnesota| 55470| 16127211216
+
+TABLE NAME|JRDM_order|11
+1| 3| 1| 4844542949956840| 2014-01-09 12:00:00| 2014-01-15 12:00:00| 2015-03-21 12:00:00| 0| USPS| 243020715| 2015-03-16 12:00:00
+2| 3| 2| 3550506265672170| 2015-10-09 12:00:00| 2015-10-13 12:00:00| NULL| 1| NULL| NULL| NULL
+3| 4| 3| 3578745162625680| 2014-01-24 12:00:00| 2014-02-04 12:00:00| 2015-06-13 12:00:00| 0| UPS| 251288355| 2015-06-07 12:00:00
+4| 4| 4| 3578745162625680| 2014-02-01 12:00:00| 2014-02-06 12:00:00| 2015-06-18 12:00:00| 0| USPS| 656235882| 2014-06-08 12:00:00
+5| 5| 5| 3533257510000310| 2014-10-12 12:00:00| 2014-10-18 12:00:00| 2015-08-21 12:00:00| 0| FEDEX| 55810113| 2015-08-04 12:00:00
+6| 5| 6| 5602251631942650| 2015-09-23 12:00:00| 2015-10-01 12:00:00| NULL| 1| NULL| NULL| NULL
+7| 5| 7| 5602251631942650| 2014-07-17 12:00:00| 2014-07-24 12:00:00| 2015-02-25 12:00:00| 0| FEDEX| 472097423| 2015-02-20 12:00:00
+8| 8| 8| 5602252585509700000| 2014-07-01 12:00:00| 2014-07-05 12:00:00| 2014-11-21 12:00:00| 0| USPS| 297755506| 2014-11-08 12:00:00
+9| 9| 9| 3579813360873430| 2015-05-01 12:00:00| 2015-05-09 12:00:00| 2015-05-14 12:00:00| 0| FEDEX| 750199078| 2015-05-10 12:00:00
+10| 9| 10| 3579813360873430| 2015-10-05 12:00:00| 2015-10-14 12:00:00| NULL| 1| NULL| NULL| NULL
+
+TABLE NAME|JRDM_item|10
+1| 1| Madden 2014| Sports| 1.jpeg| 59.99| 40.00| 2017-06-30 12:00:00| 2016-09-08 12:00:00| 1
+4| 1| Madden 2014: Th Show| Sports| 4.jpeg| 59.99| 40.00| 2017-06-30 12:00:00| 2016-09-08 12:00:00| 1
+14| 1| Eloi Eloi Lama Shabachtani| True Worship| 14.jpeg| 9.99| 6.00| 2013-09-29 12:00:00| NULL| 0
+15| 1| The Matrix 5| Action| 15.jpeg| 19.99| 10.00| 2018-01-18 12:00:00| 2017-10-24 12:00:00| 0
+23| 1| Scream Canadian| Rock n Roll| 23.jpeg| 9.99| 6.00| 2013-09-29 12:00:00| NULL| 0
+27| 1| Kirby: Right Back at Ya!| Adventure| 27.jpeg| 19.99| 10.00| 2014-12-04 12:00:00| NULL| 0
+28| 2| Kirby: Right Back at Ya! - The Reckoning| Horror| 28.jpeg| 19.99| 10.00| 2014-12-04 12:00:00| NULL| 0
+30| 2| Jamba Juice And Friends| Children| 30.jpeg| 19.99| 10.00| 2014-12-04 12:00:00| NULL| 0
+34| 2| Blues Poos| Children| 34.jpeg| 19.99| 10.00| 2014-12-04 12:00:00| NULL| 0
+35| 2| Death Wish| Power Metal| 35.jpeg| 9.99| 6.00| 2013-09-29 12:00:00| NULL| 0
+36| 3| Madden 2015| Sports| 36.jpeg| 59.99| 40.00| 2017-06-30 12:00:00| 2016-09-08 12:00:00| 1
+37| 3| Bloodhound| Third-Person Shooter| 37.jpeg| 59.99| 40.00| 2017-06-30 12:00:00| 2016-09-08 12:00:00| 1
+38| 3| The Power of Color| Gospel| 38.jpeg| 9.99| 6.00| 2013-09-29 12:00:00| NULL| 0
+39| 4| Grandmas Pa| Comedy| 39.jpeg| 19.99| 10.00| 2014-12-04 12:00:00| NULL| 0
+46| 4| The Showrunner| Drama| 46.jpeg| 19.99| 10.00| 2014-12-04 12:00:00| NULL| 0
+48| 4| MMMM what Godd Cak| Meme Spout| 48.jpeg| 9.99| 6.00| 2013-09-29 12:00:00| NULL| 0
+50| 4| Uncharted 7| Action| 50.jpeg| 59.99| 40.00| 2018-07-26 12:00:00| 2016-04-19 12:00:00| 0
+52| 4| Jenayfer| Soul| 52.jpeg| 9.99| 6.00| 2013-09-29 12:00:00| NULL| 0
+53| 4| Jeffrey Dahmer| Historical| 53.jpeg| 19.99| 10.00| 2014-12-04 12:00:00| NULL| 0
+56| 4| Space Adventure| Adventure| 56.jpeg| 59.99| 40.00| 2015-12-16 12:00:00| 2014-03-30 12:00:00| 1
+57| 4| Final Fantasy &| Role-Playing Game| 57.jpeg| 59.99| 40.00| 2017-08-15 12:00:00| 2016-05-17 12:00:00| 1
+58| 5| Jak and Baxter| Adventure| 58.jpeg| 49.99| 30.00| 2015-10-27 12:00:00| NULL| 0
+59| 5| Dog Bones| Kids| 59.jpeg| 49.99| 30.00| 2016-06-07 12:00:00| 2016-01-20 12:00:00| 0
+60| 6| Little Nicki| Comedy| 60.jpeg| 9.99| 6.00| 2012-07-28 12:00:00| NULL| 0
+61| 6| Little Nicki 2| Comedy| 61.jpeg| 9.99| 6.00| 2012-07-28 12:00:00| NULL| 0
+62| 7| Little Richard| Comedy| 62.jpeg| 9.99| 6.00| 2012-07-28 12:00:00| NULL| 0
+77| 7| Kids on the playground| Pop| 77.jpeg| 9.99| 6.00| 2013-09-29 12:00:00| NULL| 0
+81| 7| The Spookining| Dark Gothic| 81.jpeg| 9.99| 6.00| 2013-09-29 12:00:00| NULL| 0
+82| 8| The Numbness| Pop| 82.jpeg| 9.99| 6.00| 2013-09-29 12:00:00| NULL| 0
+89| 8| Wow Now Thats What I Call Anime| Pop| 89.jpeg| 9.99| 6.00| 2013-09-29 12:00:00| NULL| 0
+101| 9| Wow What an Adventure| Adventure| 101.jpeg| 49.99| 30.00| 2015-10-27 12:00:00| NULL| 0
+
+TABLE NAME|JRDM_contains|3
+1| 1| 1
+1| 4| 6
+1| 14| 4
+1| 15| 1
+1| 23| 5
+1| 27| 1
+1| 28| 6
+1| 30| 2
+1| 34| 1
+1| 35| 4
+1| 36| 4
+1| 37| 1
+1| 38| 1
+1| 39| 1
+1| 46| 1
+1| 48| 1
+1| 50| 1
+1| 52| 1
+1| 53| 1
+1| 56| 1
+1| 57| 1
+1| 58| 1
+1| 59| 1
+1| 60| 1
+1| 61| 1
+1| 62| 1
+1| 77| 1
+1| 81| 1
+1| 82| 1
+1| 89| 1
+1| 101| 1
+2| 15| 6
+2| 27| 2
+2| 36| 2
+2| 38| 6
+2| 50| 4
+2| 56| 6
+2| 57| 6
+2| 58| 5
+2| 59| 1
+3| 15| 4
+3| 27| 2
+3| 36| 3
+3| 38| 1
+3| 50| 1
+3| 56| 1
+3| 57| 3
+3| 58| 6
+4| 15| 3
+4| 27| 4
+4| 36| 4
+4| 38| 2
+4| 50| 3
+4| 56| 3
+4| 57| 2
+4| 58| 3
+4| 59| 4
+4| 61| 2
+4| 62| 2
+5| 15| 2
+5| 27| 2
+5| 36| 4
+5| 38| 2
+6| 50| 1
+6| 56| 3
+6| 57| 6
+6| 58| 4
+7| 15| 4
+7| 27| 5
+7| 38| 5
+7| 61| 5
+7| 62| 6
+8| 50| 2
+8| 56| 6
+9| 15| 4
+9| 27| 1
+9| 36| 5
+10| 15| 2
+10| 27| 4
+10| 36| 1
+10| 56| 6
+10| 58| 2
+10| 61| 3
+10| 62| 5
+10| 59| 4
+10| 38| 6
+10| 57| 1
+11| 15| 2
+11| 27| 3
+11| 36| 3
+11| 38| 5
+11| 56| 1
+12| 56| 6
+12| 57| 5
+12| 58| 3
+12| 59| 5
+13| 15| 2
+13| 27| 1
+14| 15| 1
+14| 27| 2
+14| 36| 3
+15| 56| 4
+15| 57| 6
+15| 58| 3
+15| 59| 2
+16| 38| 3
+16| 15| 6
+16| 56| 5
+16| 57| 4
+17| 56| 2
+17| 57| 3
+17| 58| 4
+18| 15| 4
+18| 27| 1
+18| 36| 3
+19| 15| 1
+19| 57| 1
+19| 58| 5
+19| 59| 1
+
+TABLE NAME|JRDM_format|2
+15| Blue-Ray
+27| Blue-Ray
+36| Xbox 360
+38| CD
+50| PS3
+56| PS3
+57| PS4
+58| Xbox One
+59| Wii U
+61| DVD
+
+TABLE NAME|JRDM_music|3
+14| The Willies| MGM
+23| Gilfoil| Sony
+35| Bronson| Metal Blade
+38| The Jackson 4| Metal Blade
+48| The Looking Glass| Sony
+52| Christopher| Grass Blue
+77| Marbile| MGM
+81| The Spooky Door| Grass Blue
+82| Numb Brughs| Grass Blue
+89| Weaboo| Orange Place
+
+TABLE NAME|JRDM_movies|3
+15| Johnny Griffin| The Movie Place
+27| Sarah Day| The Movie Place
+28| James Howell| Holo
+30| Lois Grant| Holo
+34| Roger Ford| Holo
+39| Gregory Wilson| Gassy Studios
+46| Martha Holmes| Breakfast Club Productions
+53| Ruth Fields| Grape Sauce
+60| Katherine Moreno| Steak Parfait Studios
+61| Howard Richards| Orange Soda Productions
+
+TABLE NAME|JRDM_games|3
+1| BioWare| Bethesda Softworks
+4| BioWare| Bethesda Softworks
+36| The Looking Glass| Electronic Arts
+37| Frictional Games| TriHeart
+50| Frictional Games| Bethesda Softworks
+56| Frictional Games| SilverSoft
+57| Ubisoft| Deep Silver
+58| Obsidian| Deep Silver
+59| Obsidian| SilverSoft
+101| Rocksockom| Bethesda Softworks
+

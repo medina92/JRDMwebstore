@@ -1,0 +1,10 @@
+CREATE OR REPLACE VIEW allItems AS
+(SELECT DISTINCT * 
+From JRDM_item NATURAL JOIN JRDM_music NATURAL JOIN jrdm_format )
+UNION
+(SELECT * 
+From JRDM_item NATURAL JOIN JRDM_games NATURAL JOIN jrdm_format )
+UNION
+(SELECT * 
+From JRDM_item NATURAL JOIN JRDM_movies NATURAL JOIN jrdm_format )
+/

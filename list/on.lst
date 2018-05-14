@@ -1,0 +1,64 @@
+CS342 SQL> select * from jrdm_employee order by e_id desc
+  2  /
+
+      E_ID FNAME                                    LNAME                                    BIRTH_DAT                  
+---------- ---------------------------------------- ---------------------------------------- ---------                  
+STREET                                   CITY                                                                           
+---------------------------------------- ----------------------------------------                                       
+STATE                                           ZIP  PHONE_NUM START_DAT END_DATE                                       
+---------------------------------------- ---------- ---------- --------- ---------                                      
+        10 Anne                                     Kim                                      25-SEP-88                  
+9726 Onsgard Center                      Norfolk                                                                        
+Virginia                                      23520 1.7577E+10 22-MAY-09 25-JUN-12                                      
+                                                                                                                        
+         9 Virginia                                 Price                                    17-JUN-92                  
+8741 Caliangt Park                       Saint Louis                                                                    
+Missouri                                      63116 1.3148E+10 05-FEB-08                                                
+                                                                                                                        
+         8 Martin                                   Cruz                                     15-JAN-88                  
+02557 Loftsgordon Lane                   Akron                                                                          
+Ohio                                          44310 1.3302E+10 26-MAY-10                                                
+                                                                                                                        
+         7 Janice                                   Turner                                   20-NOV-85                  
+80090 5th Circle                         Raleigh                                                                        
+North Carolina                                27626 1.9195E+10 09-MAY-10 07-MAY-14                                      
+                                                                                                                        
+         6 Doris                                    Nichols                                  30-OCT-89                  
+99563 Scoville Drive                     Sparks                                                                         
+Nevada                                        89436 1.7755E+10 11-OCT-09 11-FEB-13                                      
+                                                                                                                        
+         5 Alan                                     Greene                                   11-JUL-91                  
+23 Erie Point                            Salt Lake City                                                                 
+Utah                                          84145 1.8016E+10 14-DEC-08                                                
+                                                                                                                        
+         4 Beverly                                  Brown                                    28-MAY-90                  
+53 Melvin Terrace                        Orlando                                                                        
+Florida                                       32808 1.3218E+10 04-MAY-10                                                
+                                                                                                                        
+         3 Ernest                                   Carter                                   24-JUL-86                  
+3 Karstens Hill                          Raleigh                                                                        
+North Carolina                                27605 1.9193E+10 01-OCT-09                                                
+                                                                                                                        
+         2 Kathy                                    Bishop                                   20-OCT-91                  
+
+      E_ID FNAME                                    LNAME                                    BIRTH_DAT                  
+---------- ---------------------------------------- ---------------------------------------- ---------                  
+STREET                                   CITY                                                                           
+---------------------------------------- ----------------------------------------                                       
+STATE                                           ZIP  PHONE_NUM START_DAT END_DATE                                       
+---------------------------------------- ---------- ---------- --------- ---------                                      
+2 Brown Place                            Dayton                                                                         
+Ohio                                          45470 1.9374E+10 04-APR-10 27-SEP-10                                      
+                                                                                                                        
+         1 George                                   Carpenter                                08-MAR-92                  
+798 Stone Corner Pass                    Columbus                                                                       
+Ohio                                          43240 1.7402E+10 23-MAY-10 28-AUG-14                                      
+                                                                                                                        
+
+10 rows selected.
+
+CS342 SQL> spool on reports_jrdrm
+SP2-0768: Illegal SPOOL command
+Usage: SPOOL { <file> | OFF | OUT }
+where <file> is file_name[.ext] [CRE[ATE]|REP[LACE]|APP[END]]
+CS342 SQL> spool reports_jrdm

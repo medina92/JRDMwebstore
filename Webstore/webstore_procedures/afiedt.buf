@@ -1,0 +1,2 @@
+select JRDM_youngeAverage(10) FROM dual
+/

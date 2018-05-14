@@ -1,0 +1,4 @@
+CREATE OR REPLACE VIEW allMusic AS
+(SELECT DISTINCT * 
+From JRDM_item NATURAL JOIN JRDM_music NATURAL JOIN jrdm_format )
+/

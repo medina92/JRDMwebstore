@@ -1,0 +1,34 @@
+TABLE NAME|JRDM_employee|11
+1|George|Carpenter|1992/03/08 |798 Stone Corner Pass|Columbus|Ohio|43240|17401774729|2010/05/23|2014/08/28
+2|Kathy|Bishop|1991/10/20 |2 Brown Place|Dayton|Ohio|45470|19373831518|2010/04/04|2010/09/27
+3|Ernest|Carter|1990/07/24 |3 Karstens Hill|Raleigh|North Carolina|27605|19193079809|2009/10/01|NULL
+4|Beverly|Brown|1990/05/28 |53 Melvin Terrace|Orlando|Florida|32808|13218179978|2010/05/04|NULL
+5|Alan|Greene|1991/07/11 |23 Erie Point|Salt Lake City|Utah|84145|18015519643|2008/12/14|NULL
+6|Doris|Nichols|1989/01/30 |99563 Scoville Drive|Sparks|Nevada|89436|17755403055|2009/10/11|2013/02/11
+7|Janice|Turner|1985/11/20 |80090 5th Circle|Raleigh|North Carolina|27626|19194556692|2010/05/09|2014/05/07
+8|Martin|Cruz|1988/01/15 |02557 Loftsgordon Lane|Akron|Ohio|44310|13302139124|2010/05/26|NULL
+9|Virginia|Price|1992/06/17 |8741 Caliangt Park|Saint Louis|Missouri|63116|13148199469|2008/02/05|NULL
+10|Anne|Kim|1988/09/25 |9726 Onsgard Center|Norfolk|Virginia|23520|17576795201|2009/05/22|2012/06/25
+
+
+
+TABLE NAME|JRDM_customer|12
+
+TABLE NAME|JRDM_creditcard|7
+
+TABLE NAME|JRDM_distributor|7
+
+TABLE NAME|JRDM_order|11
+
+TABLE NAME|JRDM_item|10
+
+TABLE NAME|JRDM_contains|3
+
+TABLE NAME|JRDM_format|2
+
+TABLE NAME|JRDM_music|3
+
+TABLE NAME|JRDM_movies|3
+
+TABLE NAME|JRDM_games|3
+

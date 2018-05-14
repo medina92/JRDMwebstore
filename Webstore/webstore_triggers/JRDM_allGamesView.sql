@@ -1,0 +1,4 @@
+CREATE OR REPLACE VIEW allGames AS
+(SELECT DISTINCT * 
+From JRDM_item NATURAL JOIN JRDM_games NATURAL JOIN jrdm_format )
+/
